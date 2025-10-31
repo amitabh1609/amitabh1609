@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amitabh Choudhury</h1>
 <h3 align="center">Data Engineer | Machine Learning Enthusiast | Problem Solver from India 🇮🇳</h3>
-
+- 📫 How to reach me **choudhryamitabh@gmail.com**
 ---
 
 ### 🌟 About Me
@@ -28,7 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitabh1609&label=Profile%20views&color=0e75b6&style=flat" alt="amitabh1609" /> </p>
 
-- 📫 How to reach me **choudhryamitabh@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
