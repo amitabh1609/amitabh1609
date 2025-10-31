@@ -3,7 +3,7 @@
 <p align="center">
 📧 Feel free to reach out at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=choudhryamitabh@gmail.com"><strong>choudhryamitabh@gmail.com</strong></a> — always happy to connect and collaborate!
 </p>
----
+
 
 ### 🌟 About Me
 
