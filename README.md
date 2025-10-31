@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Amitabh Choudhury</h1>
 <h3 align="center">Data Engineer | Machine Learning Enthusiast | Problem Solver from India 🇮🇳</h3>
 
+---
+
+### 🌟 About Me
+
+- 🔭 Currently working as a **Data Engineer at Caterpillar Inc.**
+- ⚙️ Skilled in **ETL Pipelines, Data Warehousing, and ML Workflows**
+- 🧠 Exploring **Machine Learning**, **MLOps**, and **AI-driven Analytics**
+- 💡 Passionate about **building scalable data systems** and **turning raw data into intelligent insights**
+- 🏆 **LeetCode Knight (1923⭐)** | **Codeforces 1800+** | **CodeChef 3⭐**
+- 💬 Ask me about **Python, Snowflake, SnapLogic, TensorFlow, or Dataiku**
+- 📫 Reach me at **[your email or LinkedIn link]**
+- ⚡ Fun fact: I love solving real-world problems through data and automation.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, SQL, JavaScript, Kotlin, Swift  
+**Data Engineering:** SnapLogic, Snowflake, Tidal, Power BI  
+**Machine Learning:** TensorFlow, scikit-learn, Dataiku  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Tools:** Git, Docker, AWS (S3, SageMaker), VS Code, Jupyter
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitabh1609&label=Profile%20views&color=0e75b6&style=flat" alt="amitabh1609" /> </p>
