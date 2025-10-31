@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amitabh Choudhury</h1>
 <h3 align="center">Data Engineer | Machine Learning Enthusiast | Problem Solver from India 🇮🇳</h3>
-- 📧 Feel free to reach out at [**choudhryamitabh@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=choudhryamitabh@gmail.com) — always happy to connect and collaborate!
-
-
+<p align="center">
+📧 Feel free to reach out at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=choudhryamitabh@gmail.com"><strong>choudhryamitabh@gmail.com</strong></a> — always happy to connect and collaborate!
+</p>
 ---
 
 ### 🌟 About Me
